@@ -1,0 +1,103 @@
+{
+  "store": "aesthetic-studio",
+  "generated_at": "2026-03-13T07:35:43.845512+00:00",
+  "package_count": 12,
+  "packages": [
+    {
+      "product": "aesthetic-color-palettes",
+      "zip_name": "aesthetic-color-palettes-ff0b31f47432.zip",
+      "file_count": 6,
+      "size_bytes": 10375,
+      "sha256": "51d13e886140a9dd5cf4c61c48e3829d97e71dd21542954c73ff34ad37099d5b",
+      "fingerprint": "ff0b31f47432"
+    },
+    {
+      "product": "aesthetic-starter-bundle",
+      "zip_name": "aesthetic-starter-bundle-151914686a51.zip",
+      "file_count": 3,
+      "size_bytes": 2598,
+      "sha256": "7cfaa218d99eab049bb2f533bde6f0f4d3c991d6cc67384bf1adaa5177a75291",
+      "fingerprint": "151914686a51"
+    },
+    {
+      "product": "aesthetic-ultimate-bundle",
+      "zip_name": "aesthetic-ultimate-bundle-26401567c2c5.zip",
+      "file_count": 3,
+      "size_bytes": 2976,
+      "sha256": "07f08ecdcf13d346ba669876846c256210aa6fe3c953cb7339706c3080375414",
+      "fingerprint": "26401567c2c5"
+    },
+    {
+      "product": "anime-wallpaper-collection",
+      "zip_name": "anime-wallpaper-collection-f643bedc039f.zip",
+      "file_count": 7,
+      "size_bytes": 22419,
+      "sha256": "aa4c3a1a0bb6545dcf2c432d656c25247ca696ec6b72f687ad53c121299eea26",
+      "fingerprint": "f643bedc039f"
+    },
+    {
+      "product": "cottagecore-wallpaper-pack",
+      "zip_name": "cottagecore-wallpaper-pack-2a57a1235776.zip",
+      "file_count": 45,
+      "size_bytes": 78742,
+      "sha256": "01095a73e61cd61982f8c02e669cd8cfc490e006f4bbfb1156e557c259830729",
+      "fingerprint": "2a57a1235776"
+    },
+    {
+      "product": "dark-academia-icon-set",
+      "zip_name": "dark-academia-icon-set-819b604c6e14.zip",
+      "file_count": 7,
+      "size_bytes": 15084,
+      "sha256": "a8b21891cc89c3a09d332099681669b2220038c9ecd29df7b9b739bb3b16ca9c",
+      "fingerprint": "819b604c6e14"
+    },
+    {
+      "product": "digital-sticker-mega-pack",
+      "zip_name": "digital-sticker-mega-pack-e1a63905c06b.zip",
+      "file_count": 6,
+      "size_bytes": 11285,
+      "sha256": "c215323ac983e1d2e7b4513565a27b85d7a67fbbf65881a868d894174bd187fe",
+      "fingerprint": "e1a63905c06b"
+    },
+    {
+      "product": "grunge-aesthetic-pack",
+      "zip_name": "grunge-aesthetic-pack-0feceba86b93.zip",
+      "file_count": 6,
+      "size_bytes": 11622,
+      "sha256": "244ab6efcce7ab8ca134e51d45575bc8d03d510e1a59a640fe2610a1470e5bb5",
+      "fingerprint": "0feceba86b93"
+    },
+    {
+      "product": "mood-board-creator-kit",
+      "zip_name": "mood-board-creator-kit-4e40626dd0bb.zip",
+      "file_count": 8,
+      "size_bytes": 13421,
+      "sha256": "f318152d0a8f3030bc96cca3422b5afbd71019b3296d6fc92691d8e9889cfe7e",
+      "fingerprint": "4e40626dd0bb"
+    },
+    {
+      "product": "neon-glow-icon-set",
+      "zip_name": "neon-glow-icon-set-8edcfa574d0f.zip",
+      "file_count": 7,
+      "size_bytes": 14408,
+      "sha256": "5c5171d23c127d5039ac5b908774a8203bcae8cc0c7390d6af0d09ec5117c8a2",
+      "fingerprint": "8edcfa574d0f"
+    },
+    {
+      "product": "pastel-dream-journal",
+      "zip_name": "pastel-dream-journal-fd4148e1078e.zip",
+      "file_count": 6,
+      "size_bytes": 18824,
+      "sha256": "c9b563b308d5bc1a68d3abca1df26cd0e576f490e5e35e69b9e8ec1892fe311a",
+      "fingerprint": "fd4148e1078e"
+    },
+    {
+      "product": "y2k-widget-theme",
+      "zip_name": "y2k-widget-theme-9523deb6d556.zip",
+      "file_count": 6,
+      "size_bytes": 17327,
+      "sha256": "6f7131175ebe1581a511e28cec7468d480fd4c3f37909df3384ace950c73ae5a",
+      "fingerprint": "9523deb6d556"
+    }
+  ]
+}
